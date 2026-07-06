@@ -46,10 +46,36 @@ Creating your website takes only a few minutes. Here is how to do it:
     *   Go through the sidebar sections (Introduction, About Details, Skills, Projects, etc.).
     *   Type in your details, pick your custom colors under **Colors & Fonts**, and upload your images (the tool will let you crop them perfectly).
 4.  **Preview Your Work:** Click the **Toggle Preview** button (or the floating eye icon on mobile) to see exactly how your site looks on Desktop, Tablet, and Mobile.
-5.  **Export:** Click the **Export** button at the top right of the screen. A file named `portfolio_export.html` will download to your computer.
-6.  **Rename the File:** Find the downloaded file on your computer and rename it exactly to `index.html`.
+5.  **Export:** Click the **Export** button at the top right of the screen. A file named `index.html` will download to your computer.
+
 
 ---
+### 1. Accessing the Editor Menu
+By default, the main configuration sidebar is hidden on mobile devices to give you maximum space for typing and editing. To access the tools, tap the **hamburger menu icon** (three horizontal lines) in the top-left corner of the screen.
+
+<img src="https://github.com/user-attachments/assets/091dfc58-dd1f-41bb-a36b-2c0f29fc22ff" alt="Open Editor Menu" width="108" height="36" style="max-width: 100%; height: auto;">
+
+---
+
+### 2. Navigating the Admin Panel
+Once you open the menu, the **Admin Panel** will slide in. From here, you can scroll through all the available tools. Use this panel to switch templates, update your SEO settings, change global colors, and jump between different content sections (like Hero, About, and Projects).
+
+<img src="https://github.com/user-attachments/assets/682d13bd-462f-4ef0-bdc1-c5b30273e324" alt="Admin Panel Sidebar" width="108" height="202" style="max-width: 100%; height: auto;">
+
+---
+
+### 3. Checking Your Progress
+As you update text or upload images, you will want to see how the final website is shaping up. Simply tap the floating orange **PREVIEW** button located at the bottom of your screen to instantly load the live emulator. Tap it again to close it and return to the editor.
+
+<img src="https://github.com/user-attachments/assets/01daa1b3-6cab-4fa7-a988-d89b17278bc1" alt="Floating Preview Button" width="57" height="42" style="max-width: 100%; height: auto;">
+
+---
+
+### 4. Using the Device Emulator
+While inside the Preview screen, you are not just looking at a standard web page—you are using a flawless scaling emulator. Use the **device toggle icons** at the top of the preview screen to see exactly how your portfolio will look and feel on a mobile phone, a tablet, or a full desktop monitor.
+
+<img src="https://github.com/user-attachments/assets/df9716b5-3a0c-46d6-ae03-f600e01fb960" alt="Device Emulator Toggles" width="108" height="205" style="max-width: 100%; height: auto;">
+
 
 ## 🌐 Publishing Guide: Getting Your Site Live for Free
 
