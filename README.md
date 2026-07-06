@@ -46,6 +46,15 @@ Creating your website takes only a few minutes. Here is how to do it:
     <img src="https://img.shields.io/badge/Download-Portfolio_Builder-blue?style=for-the-badge&logo=github" alt="Download Portfolio Builder" />
   </a>
 </div>
+<p align="center">
+  <strong>OR</strong>
+</p>
+<div align="center">
+  <a href="https://github.com/user-attachments/files/29712963/index.html">
+    <kbd>⬇️ Download Portfolio Builder</kbd>
+  </a>
+</div>
+
 
 3.  **Pick a Template:** In the left sidebar, go to **Configuration > Templates**. Choose a layout that fits your profession. *(Note: Loading a template resets any unsaved data).*
 4.  **Customize Your Content:** 
