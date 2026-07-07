@@ -42,26 +42,19 @@ Creating your website takes only a few minutes. Here is how to do it:
 
 1.  **Open the Tool:** Download this repository, unzip it, and double-click the main `index.html` file to open it in your web browser (Chrome, Safari, Edge, etc.).
   <div align="center">
-  <a href="https://github.com/user-attachments/files/29712963/index.html">
+  <a href="https://github.com/user-attachments/files/29740986/index.html">
     <img src="https://img.shields.io/badge/Download-Portfolio_Builder-blue?style=for-the-badge&logo=github" alt="Download Portfolio Builder" />
   </a>
 </div>
-<p align="center">
-  <strong>OR</strong>
-</p>
-<div align="center">
-  <a href="https://github.com/user-attachments/files/29712963/index.html">
-    <kbd>⬇️ Download Portfolio Builder</kbd>
-  </a>
-</div>
 
 
-3.  **Pick a Template:** In the left sidebar, go to **Configuration > Templates**. Choose a layout that fits your profession. *(Note: Loading a template resets any unsaved data).*
-4.  **Customize Your Content:** 
+
+2.  **Pick a Template:** In the left sidebar, go to **Configuration > Templates**. Choose a layout that fits your profession. *(Note: Loading a template resets any unsaved data).*
+3.  **Customize Your Content:** 
     *   Go through the sidebar sections (Introduction, About Details, Skills, Projects, etc.).
     *   Type in your details, pick your custom colors under **Colors & Fonts**, and upload your images (the tool will let you crop them perfectly).
-5.  **Preview Your Work:** Click the **Toggle Preview** button (or the floating eye icon on mobile) to see exactly how your site looks on Desktop, Tablet, and Mobile.
-6.  **Export:** Click the **Export** button at the top right of the screen. A file named `index.html` will download to your computer.
+4.  **Preview Your Work:** Click the **Toggle Preview** button (or the floating eye icon on mobile) to see exactly how your site looks on Desktop, Tablet, and Mobile.
+5.  **Export:** Click the **Export** button at the top right of the screen. A file named `index.html` will download to your computer.
 
 
 ---
