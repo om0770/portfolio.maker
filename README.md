@@ -49,7 +49,7 @@ Creating your website takes only a few minutes. Here is how to do it:
 
 
 
-2.  **Pick a Template:** In the left sidebar, go to **Configuration > Templates**. Choose a layout that fits your profession. *(Note: Loading a template resets any unsaved data).*
+2.  **Pick a Template:** In the left sidebar, go to **Configuration > Templates**. Choose a layout that fits your profession. 
 3.  **Customize Your Content:** 
     *   Go through the sidebar sections (Introduction, About Details, Skills, Projects, etc.).
     *   Type in your details, pick your custom colors under **Colors & Fonts**, and upload your images (the tool will let you crop them perfectly).
